@@ -17,9 +17,10 @@ A demo of deep learning based project, which can recognize the key points of han
   [Click here](YOUR_DEMO_LINK_HERE) to see the demonstration of the program.
 
 ## Testing
-'''bash
+```bash
 cd '.\Source code\'
 python .\test.py .\test_img.jpg
+```
 
 ## Licens
   This project mainly use the function of "[mediapipe](https://github.com/google-ai-edge/mediapipe)", so we follow the same license of Apache License 2.0. [See detail](/LICENSE)
