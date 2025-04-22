@@ -9,6 +9,11 @@ A demo of deep learning based project, which can recognize the key points of han
   conda activate SLproject
   pip install opencv-python mediapipe pillow numpy
   ```
+## To use
+```bash
+cd '.\Source code\'
+python .\main.py
+```
 
 ## Development Process
   [Click here](Documents/Develop_Process.md) to see our development strategy and process.
