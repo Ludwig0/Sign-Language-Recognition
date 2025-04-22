@@ -5,7 +5,7 @@ A demo of deep learning based project, which can recognize the key points of han
 ## Install Dependencies
   ```bash
   # We recommend using Conda to manage dependencies
-  conda create -n SLproject python=3.9
+  conda create -n SLproject python=3.11
   conda activate SLproject
   pip install opencv-python mediapipe pillow numpy
   ```
