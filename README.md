@@ -2,7 +2,7 @@
 A demo of deep learning based project, which can recognize the key points of hands
 
 
-## Install Dependencie
+## Install Dependencies
   ```bash
   # We recommend using Conda to manage dependencies
   conda create -n SLproject python=3.9
