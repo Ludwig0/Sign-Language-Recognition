@@ -11,7 +11,7 @@ A demo of deep learning based project, which can recognize the key points of han
   ```
 
 ## Development Process
-  [Click here](/Documents/Develop Process.md) to see our development strategy and process.
+  [Click here]([Click here](Documents/develop%20process.md) to see our development strategy and process.
 
 ## Demonstration
   [Click here](YOUR_DEMO_LINK_HERE) to see the demonstration of the program.
